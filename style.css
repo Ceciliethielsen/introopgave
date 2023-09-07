@@ -42,7 +42,7 @@ nav img{
 }
 .slider{
     width: 100%;
-    height: 30rem;
+    height: 35rem;
     position: relative;
     user-select: none;
     text-align: center;
@@ -94,7 +94,7 @@ nav img{
   }
 
 .slider-item img{
-    height: 30rem;
+    height: 35rem;
     width: auto;
 }
   
