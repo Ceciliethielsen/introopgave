@@ -134,7 +134,7 @@ nav img{
 }
 .hex{
     margin-right: 2rem;
-    margin-top: 2rem;
+    margin-top: 1.5rem;
 }
 .hex img{
     width: 13rem; 
@@ -148,6 +148,9 @@ nav img{
 h2{
     color: #1d9881;
     margin-top: -1.5rem;
+}
+.content p{
+    margin-left: 0;
 }
 .social{
     float: right;
@@ -183,6 +186,10 @@ h2{
 }
 .contact h1, p{
     color: #fff;
+    margin-left: -43.4rem;
+}
+.contact h1{
+    margin-left: -57.3rem;
 }
 .contact-content{
     width: 75%;
@@ -195,7 +202,7 @@ input{
     display: flex;
     flex-direction: column;
     font-size: 0.9rem;
-    width: 38rem;
+    width: 54rem;
     padding: 0.8rem;
     margin-bottom: 0.5rem;
     border: none;
@@ -224,12 +231,13 @@ input{
 }
 .info p{
     margin-top: 0;
+    margin-left: 0;
 }
 .textarea{
     background-color: #454545;
     color: #fff;
     font-size: 0.9rem;
-    width: 38rem;
+    width: 54rem;
     padding: 0.8rem;
     margin-bottom: 0.5rem;
     border: none;
